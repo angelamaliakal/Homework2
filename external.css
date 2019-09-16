@@ -1,5 +1,10 @@
 h1 {
   text-align:center;
   color:#F172A1;
-  font-family: 'BioRhyme', serif;
+  font-family:'BioRhyme', serif;
 }
+
+h3 {
+  text-align:center;
+  color:#F0EBF4;
+  font-family:'Roboto', sans-serif;

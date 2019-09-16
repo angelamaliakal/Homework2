@@ -15,12 +15,12 @@ h4 {
   font-family:'Roboto', sans-serif;
 }
 
-a.link {
+a:link {
   color:#E64398;
   text-decoration:none;
 }
 
-a.hover {
+a:hover {
   color:#F172A1;
   text-decoration:none;
 }

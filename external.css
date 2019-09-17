@@ -16,6 +16,13 @@ h2 {
 h4 {
   text-align:center;
   font-family:'Roboto', sans-serif;
+  color:##F0EBF4;
+}
+
+h5 {
+  text-align:center;
+  font-family:'Roboto', sans-serif;
+  color:#E64398;
 }
 
 a:link {
@@ -25,5 +32,10 @@ a:link {
 
 a:hover {
   color:#F172A1;
+  text-decoration:none;
+}
+
+a:visited {
+  color:#E64398;
   text-decoration:none;
 }

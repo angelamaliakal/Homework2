@@ -31,6 +31,10 @@ h5 {
   font-family:'Roboto', sans-serif;
 }
 
+a {
+  text-align:center;
+  text-decoration:none;
+}
 a:link {
   text-align:center;
   color:#E64398;

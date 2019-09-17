@@ -26,16 +26,19 @@ h5 {
 }
 
 a:link {
+  text-align:center;
   color:#E64398;
   text-decoration:none;
 }
 
 a:hover {
+  text-align:center;
   color:#F172A1;
   text-decoration:none;
 }
 
 a:visited {
+  text-align:center;
   color:#E64398;
   text-decoration:none;
 }

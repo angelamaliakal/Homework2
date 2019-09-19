@@ -5,6 +5,7 @@ h1 {
   text-align:center;
   color:#F172A1;
   font-family:'BioRhyme', serif;
+  position:fixed;
 }
 
 h2 {

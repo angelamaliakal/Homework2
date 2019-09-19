@@ -6,13 +6,12 @@ h1 {
   color:#F172A1;
   font-family:'BioRhyme', serif;
   position:fixed;
-}
-
-h1 {
-   right: 0;
-   left: 0;
-   margin-right: auto;
-   margin-left: auto;
+  right: 0;
+  left: 0;
+  margin-right: auto;
+  margin-left: auto;
+  min-height: 10em;
+  width: 90%;
 }
 
 h2 {

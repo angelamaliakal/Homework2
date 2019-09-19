@@ -8,6 +8,13 @@ h1 {
   position:fixed;
 }
 
+h1 {
+   right: 0;
+   left: 0;
+   margin-right: auto;
+   margin-left: auto;
+}
+
 h2 {
   text-align:center;
   color:#F0EBF4;
